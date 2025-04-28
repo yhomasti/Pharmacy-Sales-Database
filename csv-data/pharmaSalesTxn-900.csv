@@ -1,0 +1,901 @@
+"txnID","date","cust","prod","qty","unitcost","country","repID"
+1001,"9/14/2023","Eu Dolor Companie","Gerantrazeophem",1000,1.87,"Ecuador",887
+1002,"9/13/2022","At Pretium LLC","Zalofen",1100,39,"USA",332
+1003,"10/24/2022","Proin Dolor Institut","Diaprogenix",1900,0.04,"Germany",221
+1004,"10/3/2023","At Pretium LLC","Diaprogenix",300,0.04,"USA",332
+1005,"10/26/2021","Vitae Risus Incorporated","Xipramin",1400,0.72,"USA",203
+1006,"6/9/2022","Vitae Risus Incorporated","Proxinostat",800,2.23,"USA",203
+1007,"8/4/2021","Eastern Hospital Group","Bhiktarvizem",1000,3.87,"USA",119
+1008,"6/21/2021","Luctus Aliquet Plc","Xinoprozen",200,2.82,"Brazil",887
+1009,"3/23/2021","Eleifend GMBH","Xipralofen",1800,4.76,"Germany",100
+1010,"9/20/2021","Proin Dolor Institut","Gerantrazeophem",1800,1.87,"Germany",221
+1011,"10/12/2020","Adipiscing Mauris Inc.","Presterone",1700,1.09,"USA",203
+1012,"9/5/2021","Nisl Quisque","Bhiktarvizem",1800,3.87,"Brazil",887
+1013,"3/10/2023","Vitae Risus Incorporated","Zalofen",800,39,"USA",203
+1014,"5/3/2020","Proin Dolor Institut","Diaprogenix",1800,0.04,"Germany",221
+1015,"12/1/2020","Varius Plc","Diaprogenix",1800,0.04,"Brazil",887
+1016,"1/2/2020","Varius Plc","Bhiktarvizem",400,3.87,"Brazil",887
+1017,"10/12/2022","Varius Plc","Clobromizen",1400,1.44,"Brazil",887
+1018,"2/18/2021","Lorem Luctus","Proxinostat",1800,2.23,"USA",332
+1019,"6/8/2021","Eastern Hospital Group","Zalofen",1600,39,"USA",119
+1020,"9/2/2022","Eastern Hospital Group","Bhiktarvizem",1600,3.87,"USA",119
+1021,"6/22/2020","Vitae Risus Incorporated","Gerantrazeophem",1600,1.87,"USA",203
+1022,"12/20/2022","Varius Plc","Diaprogenix",1600,0.04,"Brazil",887
+1023,"2/26/2022","Adipiscing Mauris Inc.","Colophrazen",2000,1.23,"USA",203
+1024,"11/8/2023","Enim PC","Diaprogenix",1500,0.04,"USA",203
+1025,"6/21/2022","Barma Krankenhausgesellschaft","Presterone",300,1.09,"Austria",655
+1026,"10/1/2022","Proin Dolor Institut","Xinoprozen",1200,2.82,"Germany",221
+1027,"3/15/2020","Lorem Luctus","Proxinostat",400,2.23,"USA",332
+1028,"5/4/2023","Eastern Hospital Group","Alaraphosol",1500,0.92,"USA",119
+1029,"6/1/2023","Erat Pharma","Diaprogenix",1600,0.04,"Germany",100
+1030,"9/27/2021","Eastern Hospital Group","Xipralofen",600,4.76,"USA",119
+1031,"8/7/2021","Adipiscing Mauris Inc.","Colophrazen",600,1.23,"USA",203
+1032,"4/21/2021","Eu Dolor Companie","Presterone",300,1.09,"Ecuador",887
+1033,"10/12/2023","Saude Universal","Alaraphosol",1200,0.92,"Brazil",887
+1034,"4/24/2021","Eleifend GMBH","Presterone",2000,1.09,"Germany",100
+1035,"9/10/2021","Enim PC","Xinoprozen",800,2.82,"USA",203
+1036,"2/4/2023","At Pretium LLC","Alaraphosol",700,0.92,"USA",332
+1037,"6/11/2023","Saude Universal","Xinoprozen",200,2.82,"Brazil",887
+1038,"11/10/2022","Proin Dolor Institut","Proxinostat",1300,2.23,"Germany",221
+1039,"5/3/2022","Vitae Risus Incorporated","Diaprogenix",2000,0.04,"USA",203
+1040,"12/18/2021","Barma Krankenhausgesellschaft","Bhiktarvizem",1000,3.87,"Austria",655
+1041,"4/18/2022","Pain Management Center","Proxinostat",900,2.23,"USA",332
+1042,"5/21/2022","Plaxus Medical","Diaprogenix",1500,0.04,"Canada",119
+1043,"2/15/2020","Nisl Quisque","Gerantrazeophem",300,1.87,"Brazil",887
+1044,"4/16/2022","Lorem Luctus","Bhiktarvizem",1300,3.87,"USA",332
+1045,"2/24/2021","Adipiscing Mauris Inc.","Colophrazen",1300,1.23,"USA",203
+1046,"3/7/2021","Eu Dolor Companie","Colophrazen",600,1.23,"Ecuador",887
+1047,"7/16/2022","Eleifend GMBH","Presterone",500,1.09,"Germany",100
+1048,"6/8/2021","Plaxus Medical","Zalofen",200,39,"Canada",119
+1049,"4/27/2023","Pain Management Center","Xipramin",1800,0.72,"USA",332
+1050,"9/26/2022","At Pretium LLC","Presterone",900,1.09,"USA",332
+1051,"9/11/2022","Plaxus Medical","Xipramin",800,0.72,"Canada",119
+1052,"3/21/2022","Barma Krankenhausgesellschaft","Colophrazen",300,1.23,"Austria",655
+1053,"12/9/2023","Enim PC","Gerantrazeophem",1800,1.87,"USA",203
+1054,"4/8/2022","Nisl Quisque","Zalofen",600,39,"Brazil",887
+1055,"6/1/2020","Saude Universal","Xipralofen",500,4.76,"Brazil",887
+1056,"5/16/2021","Lorem Luctus","Xinoprozen",1800,2.82,"USA",332
+1057,"9/21/2022","Vitae Risus Incorporated","Xipramin",1800,0.72,"USA",203
+1058,"5/22/2022","Barma Krankenhausgesellschaft","Gerantrazeophem",700,1.87,"Austria",655
+1059,"2/17/2022","Nisl Quisque","Xipramin",1700,0.72,"Brazil",887
+1060,"4/26/2021","Eastern Hospital Group","Zalofen",1500,39,"USA",119
+1061,"1/3/2021","Plaxus Medical","Bhiktarvizem",300,3.87,"Canada",119
+1062,"6/17/2022","Vitae Risus Incorporated","Presterone",2000,1.09,"USA",203
+1063,"1/25/2023","Erat Pharma","Bhiktarvizem",1800,3.87,"Germany",100
+1064,"12/9/2021","Proin Dolor Institut","Gerantrazeophem",1200,1.87,"Germany",221
+1065,"2/1/2021","Lorem Luctus","Clobromizen",800,1.44,"USA",332
+1066,"11/9/2023","Saude Universal","Diaprogenix",1400,0.04,"Brazil",887
+1067,"8/9/2022","Plaxus Medical","Xipralofen",1200,4.76,"Canada",119
+1068,"10/9/2020","Enim PC","Colophrazen",1500,1.23,"USA",203
+1069,"3/10/2021","Luctus Aliquet Plc","Bhiktarvizem",1800,3.87,"Brazil",887
+1070,"10/27/2022","Plaxus Medical","Gerantrazeophem",1200,1.87,"Canada",119
+1071,"9/22/2023","Barma Krankenhausgesellschaft","Gerantrazeophem",200,1.87,"Austria",655
+1072,"7/15/2021","Proin Dolor Institut","Proxinostat",300,2.23,"Germany",221
+1073,"11/5/2021","Proin Dolor Institut","Proxinostat",300,2.23,"Germany",221
+1074,"4/8/2021","Adipiscing Mauris Inc.","Presterone",100,1.09,"USA",203
+1075,"12/23/2020","Lorem Luctus","Presterone",200,1.09,"USA",332
+1076,"10/23/2021","Lorem Luctus","Colophrazen",2000,1.23,"USA",332
+1077,"10/25/2021","Eu Dolor Companie","Presterone",1900,1.09,"Ecuador",887
+1078,"9/23/2021","Lorem Luctus","Diaprogenix",1700,0.04,"USA",332
+1079,"8/28/2023","Pain Management Center","Proxinostat",500,2.23,"USA",332
+1080,"10/4/2021","Varius Plc","Gerantrazeophem",1600,1.87,"Brazil",887
+1081,"11/22/2021","Pain Management Center","Clobromizen",1200,1.44,"USA",332
+1082,"9/21/2022","Vitae Risus Incorporated","Xipramin",700,0.72,"USA",203
+1083,"6/25/2021","Enim PC","Colophrazen",200,1.23,"USA",203
+1084,"9/3/2023","Vitae Risus Incorporated","Clobromizen",500,1.44,"USA",203
+1085,"1/20/2020","Barma Krankenhausgesellschaft","Proxinostat",1400,2.23,"Austria",655
+1086,"5/19/2022","Barma Krankenhausgesellschaft","Zalofen",500,39,"Austria",655
+1087,"4/3/2021","Pain Management Center","Colophrazen",1300,1.23,"USA",332
+1088,"6/8/2021","Luctus Aliquet Plc","Alaraphosol",1400,0.92,"Brazil",887
+1089,"2/1/2021","Pain Management Center","Presterone",200,1.09,"USA",332
+1090,"7/9/2021","Lorem Luctus","Clobromizen",1900,1.44,"USA",332
+1091,"2/10/2022","Pain Management Center","Bhiktarvizem",1600,3.87,"USA",332
+1092,"9/27/2021","Luctus Aliquet Plc","Presterone",200,1.09,"Brazil",887
+1093,"3/15/2023","Pain Management Center","Zalofen",300,39,"USA",332
+1094,"4/6/2021","At Pretium LLC","Zalofen",1300,39,"USA",332
+1095,"1/9/2023","Varius Plc","Xinoprozen",1900,2.82,"Brazil",887
+1096,"2/27/2022","Proin Dolor Institut","Diaprogenix",1100,0.04,"Germany",221
+1097,"6/16/2021","Eleifend GMBH","Zalofen",700,39,"Germany",100
+1098,"11/26/2022","Enim PC","Xipralofen",100,4.76,"USA",203
+1099,"9/26/2023","Barma Krankenhausgesellschaft","Presterone",1900,1.09,"Austria",655
+1100,"2/2/2021","Erat Pharma","Xipramin",1400,0.72,"Germany",100
+1101,"5/14/2023","Adipiscing Mauris Inc.","Xinoprozen",1600,2.82,"USA",203
+1102,"2/22/2022","Varius Plc","Alaraphosol",700,0.92,"Brazil",887
+1103,"11/6/2023","Eleifend GMBH","Zalofen",1900,39,"Germany",100
+1104,"9/8/2022","Adipiscing Mauris Inc.","Xipralofen",800,4.76,"USA",203
+1105,"1/27/2022","Enim PC","Gerantrazeophem",600,1.87,"USA",203
+1106,"5/12/2022","Proin Dolor Institut","Clobromizen",1500,1.44,"Germany",221
+1107,"3/23/2023","Varius Plc","Clobromizen",800,1.44,"Brazil",887
+1108,"11/2/2020","Luctus Aliquet Plc","Gerantrazeophem",1400,1.87,"Brazil",887
+1109,"3/16/2022","Saude Universal","Clobromizen",600,1.44,"Brazil",887
+1110,"9/6/2022","Eleifend GMBH","Clobromizen",300,1.44,"Germany",100
+1111,"2/18/2023","Proin Dolor Institut","Bhiktarvizem",1900,3.87,"Germany",221
+1112,"9/28/2021","Plaxus Medical","Alaraphosol",1500,0.92,"Canada",119
+1113,"11/19/2022","Plaxus Medical","Alaraphosol",500,0.92,"Canada",119
+1114,"8/26/2021","Pain Management Center","Diaprogenix",1900,0.04,"USA",332
+1115,"11/18/2020","Eu Dolor Companie","Xipralofen",1300,4.76,"Ecuador",887
+1116,"5/27/2022","Plaxus Medical","Colophrazen",300,1.23,"Canada",119
+1117,"10/11/2021","Adipiscing Mauris Inc.","Gerantrazeophem",1600,1.87,"USA",203
+1118,"4/23/2023","Eastern Hospital Group","Gerantrazeophem",700,1.87,"USA",119
+1119,"11/4/2022","Saude Universal","Zalofen",1700,39,"Brazil",887
+1120,"6/9/2021","Erat Pharma","Xipralofen",1900,4.76,"Germany",100
+1121,"9/20/2021","Varius Plc","Colophrazen",200,1.23,"Brazil",887
+1122,"6/23/2021","At Pretium LLC","Bhiktarvizem",1900,3.87,"USA",332
+1123,"12/20/2020","Enim PC","Alaraphosol",1100,0.92,"USA",203
+1124,"2/3/2020","Eastern Hospital Group","Proxinostat",1800,2.23,"USA",119
+1125,"11/14/2020","Proin Dolor Institut","Bhiktarvizem",600,3.87,"Germany",221
+1126,"8/1/2020","Lorem Luctus","Alaraphosol",1600,0.92,"USA",332
+1127,"8/17/2022","Eastern Hospital Group","Colophrazen",500,1.23,"USA",119
+1128,"1/25/2020","At Pretium LLC","Diaprogenix",1700,0.04,"USA",332
+1129,"2/22/2021","Eleifend GMBH","Diaprogenix",400,0.04,"Germany",100
+1130,"7/9/2022","Varius Plc","Bhiktarvizem",1700,3.87,"Brazil",887
+1131,"8/2/2021","Luctus Aliquet Plc","Diaprogenix",1700,0.04,"Brazil",887
+1132,"3/20/2021","Enim PC","Xinoprozen",1600,2.82,"USA",203
+1133,"7/19/2021","At Pretium LLC","Gerantrazeophem",1700,1.87,"USA",332
+1134,"5/5/2022","Erat Pharma","Clobromizen",1500,1.44,"Germany",100
+1135,"7/13/2021","Plaxus Medical","Bhiktarvizem",900,3.87,"Canada",119
+1136,"3/24/2021","Eu Dolor Companie","Xinoprozen",1000,2.82,"Ecuador",887
+1137,"6/3/2021","Vitae Risus Incorporated","Presterone",300,1.09,"USA",203
+1138,"5/22/2022","Barma Krankenhausgesellschaft","Gerantrazeophem",600,1.87,"Austria",655
+1139,"4/18/2020","Barma Krankenhausgesellschaft","Presterone",700,1.09,"Austria",655
+1140,"6/12/2022","Erat Pharma","Bhiktarvizem",1200,3.87,"Germany",100
+1141,"7/2/2023","Eu Dolor Companie","Clobromizen",1200,1.44,"Ecuador",887
+1142,"4/6/2021","Lorem Luctus","Xipralofen",1000,4.76,"USA",332
+1143,"6/18/2021","Nisl Quisque","Proxinostat",1200,2.23,"Brazil",887
+1144,"2/17/2022","Barma Krankenhausgesellschaft","Presterone",1500,1.09,"Austria",655
+1145,"6/13/2022","Eleifend GMBH","Presterone",1900,1.09,"Germany",100
+1146,"7/22/2021","Eleifend GMBH","Xipramin",2000,0.72,"Germany",100
+1147,"8/10/2020","Barma Krankenhausgesellschaft","Xipralofen",200,4.76,"Austria",655
+1148,"5/16/2022","Eu Dolor Companie","Presterone",1100,1.09,"Ecuador",887
+1149,"10/18/2020","Barma Krankenhausgesellschaft","Zalofen",1200,39,"Austria",655
+1150,"9/18/2022","Pain Management Center","Colophrazen",900,1.23,"USA",332
+1151,"12/13/2023","Barma Krankenhausgesellschaft","Colophrazen",1600,1.23,"Austria",655
+1152,"7/17/2022","Proin Dolor Institut","Proxinostat",1700,2.23,"Germany",221
+1153,"1/6/2022","Vitae Risus Incorporated","Colophrazen",1600,1.23,"USA",203
+1154,"9/3/2022","Eu Dolor Companie","Colophrazen",200,1.23,"Ecuador",887
+1155,"7/12/2023","Eu Dolor Companie","Diaprogenix",600,0.04,"Ecuador",887
+1156,"7/21/2023","Barma Krankenhausgesellschaft","Zalofen",200,39,"Austria",655
+1157,"12/13/2021","Enim PC","Alaraphosol",900,0.92,"USA",203
+1158,"4/16/2022","Saude Universal","Colophrazen",1300,1.23,"Brazil",887
+1159,"8/20/2022","Barma Krankenhausgesellschaft","Clobromizen",1100,1.44,"Austria",655
+1160,"10/6/2020","Erat Pharma","Clobromizen",500,1.44,"Germany",100
+1161,"7/11/2021","Eastern Hospital Group","Presterone",1100,1.09,"USA",119
+1162,"4/28/2020","Barma Krankenhausgesellschaft","Presterone",1200,1.09,"Austria",655
+1163,"3/16/2020","At Pretium LLC","Colophrazen",300,1.23,"USA",332
+1164,"12/24/2021","Enim PC","Alaraphosol",1500,0.92,"USA",203
+1165,"1/4/2022","Plaxus Medical","Bhiktarvizem",500,3.87,"Canada",119
+1166,"5/7/2020","Lorem Luctus","Gerantrazeophem",1400,1.87,"USA",332
+1167,"8/19/2022","Nisl Quisque","Clobromizen",1500,1.44,"Brazil",887
+1168,"4/13/2021","Erat Pharma","Bhiktarvizem",1500,3.87,"Germany",100
+1169,"10/20/2022","Enim PC","Diaprogenix",2000,0.04,"USA",203
+1170,"8/1/2023","Eu Dolor Companie","Alaraphosol",200,0.92,"Ecuador",887
+1171,"5/13/2022","Pain Management Center","Colophrazen",1200,1.23,"USA",332
+1172,"3/16/2021","Adipiscing Mauris Inc.","Xinoprozen",1200,2.82,"USA",203
+1173,"10/25/2022","Enim PC","Gerantrazeophem",300,1.87,"USA",203
+1174,"4/5/2022","At Pretium LLC","Diaprogenix",1000,0.04,"USA",332
+1175,"3/25/2022","Pain Management Center","Xinoprozen",200,2.82,"USA",332
+1176,"7/12/2021","Eleifend GMBH","Presterone",1000,1.09,"Germany",100
+1177,"8/7/2020","Barma Krankenhausgesellschaft","Clobromizen",1100,1.44,"Austria",655
+1178,"2/4/2021","Eleifend GMBH","Colophrazen",1000,1.23,"Germany",100
+1179,"3/16/2022","Luctus Aliquet Plc","Diaprogenix",900,0.04,"Brazil",887
+1180,"10/25/2022","Lorem Luctus","Xipramin",1800,0.72,"USA",332
+1181,"7/24/2021","Eu Dolor Companie","Xipramin",1800,0.72,"Ecuador",887
+1182,"6/3/2023","Lorem Luctus","Clobromizen",400,1.44,"USA",332
+1183,"12/6/2021","Proin Dolor Institut","Clobromizen",900,1.44,"Germany",221
+1184,"3/3/2021","Vitae Risus Incorporated","Presterone",800,1.09,"USA",203
+1185,"2/19/2022","Plaxus Medical","Alaraphosol",300,0.92,"Canada",119
+1186,"7/4/2023","Adipiscing Mauris Inc.","Clobromizen",1800,1.44,"USA",203
+1187,"7/7/2022","Erat Pharma","Alaraphosol",900,0.92,"Germany",100
+1188,"10/1/2021","Lorem Luctus","Alaraphosol",1200,0.92,"USA",332
+1189,"4/3/2022","Pain Management Center","Xipramin",1500,0.72,"USA",332
+1190,"8/13/2022","Lorem Luctus","Clobromizen",900,1.44,"USA",332
+1191,"12/18/2023","Plaxus Medical","Colophrazen",300,1.23,"Canada",119
+1192,"9/12/2022","Enim PC","Gerantrazeophem",1600,1.87,"USA",203
+1193,"4/23/2023","Barma Krankenhausgesellschaft","Proxinostat",1900,2.23,"Austria",655
+1194,"3/23/2022","Pain Management Center","Colophrazen",200,1.23,"USA",332
+1195,"2/21/2020","At Pretium LLC","Xinoprozen",1700,2.82,"USA",332
+1196,"7/17/2022","Luctus Aliquet Plc","Clobromizen",1200,1.44,"Brazil",887
+1197,"3/20/2022","Pain Management Center","Xinoprozen",2000,2.82,"USA",332
+1198,"1/6/2022","Proin Dolor Institut","Xinoprozen",1800,2.82,"Germany",221
+1199,"5/9/2021","Pain Management Center","Presterone",1100,1.09,"USA",332
+1200,"5/21/2023","Erat Pharma","Xinoprozen",1700,2.82,"Germany",100
+1201,"12/20/2022","Varius Plc","Colophrazen",700,1.23,"Brazil",887
+1202,"6/26/2021","Eastern Hospital Group","Xipramin",700,0.72,"USA",119
+1203,"2/22/2022","Pain Management Center","Proxinostat",1900,2.23,"USA",332
+1204,"4/10/2022","Saude Universal","Zalofen",700,39,"Brazil",887
+1205,"6/15/2021","Varius Plc","Presterone",1800,1.09,"Brazil",887
+1206,"4/7/2021","Eleifend GMBH","Colophrazen",1700,1.23,"Germany",100
+1207,"8/22/2022","Eastern Hospital Group","Zalofen",1600,39,"USA",119
+1208,"11/18/2021","Lorem Luctus","Zalofen",200,39,"USA",332
+1209,"2/26/2021","Luctus Aliquet Plc","Clobromizen",500,1.44,"Brazil",887
+1210,"4/17/2021","Erat Pharma","Bhiktarvizem",1700,3.87,"Germany",100
+1211,"5/8/2023","Nisl Quisque","Proxinostat",1700,2.23,"Brazil",887
+1212,"12/11/2021","Lorem Luctus","Presterone",1700,1.09,"USA",332
+1213,"9/20/2022","Enim PC","Gerantrazeophem",900,1.87,"USA",203
+1214,"5/16/2022","Barma Krankenhausgesellschaft","Presterone",1400,1.09,"Austria",655
+1215,"2/11/2022","Lorem Luctus","Bhiktarvizem",600,3.87,"USA",332
+1216,"5/11/2022","Lorem Luctus","Xipralofen",1600,4.76,"USA",332
+1217,"8/16/2022","Luctus Aliquet Plc","Xipralofen",900,4.76,"Brazil",887
+1218,"5/24/2021","Eu Dolor Companie","Proxinostat",1000,2.23,"Ecuador",887
+1219,"1/20/2021","Barma Krankenhausgesellschaft","Diaprogenix",100,0.04,"Austria",655
+1220,"3/20/2020","Eleifend GMBH","Proxinostat",1900,2.23,"Germany",100
+1221,"7/3/2023","At Pretium LLC","Proxinostat",800,2.23,"USA",332
+1222,"8/7/2023","Enim PC","Clobromizen",300,1.44,"USA",203
+1223,"6/10/2020","Varius Plc","Zalofen",500,39,"Brazil",887
+1224,"3/8/2022","Lorem Luctus","Clobromizen",1300,1.44,"USA",332
+1225,"1/24/2022","Varius Plc","Clobromizen",300,1.44,"Brazil",887
+1226,"2/5/2021","Vitae Risus Incorporated","Colophrazen",2000,1.23,"USA",203
+1227,"9/9/2020","Nisl Quisque","Proxinostat",500,2.23,"Brazil",887
+1228,"8/5/2020","Nisl Quisque","Xipramin",1100,0.72,"Brazil",887
+1229,"3/25/2023","Varius Plc","Proxinostat",1500,2.23,"Brazil",887
+1230,"5/2/2022","Saude Universal","Colophrazen",600,1.23,"Brazil",887
+1231,"4/14/2023","Varius Plc","Proxinostat",500,2.23,"Brazil",887
+1232,"10/25/2021","Vitae Risus Incorporated","Alaraphosol",900,0.92,"USA",203
+1233,"1/22/2021","Lorem Luctus","Xipralofen",1200,4.76,"USA",332
+1234,"5/13/2020","At Pretium LLC","Xinoprozen",1400,2.82,"USA",332
+1235,"10/6/2023","Luctus Aliquet Plc","Alaraphosol",500,0.92,"Brazil",887
+1236,"6/27/2023","Pain Management Center","Colophrazen",600,1.23,"USA",332
+1237,"2/10/2023","Varius Plc","Zalofen",1700,39,"Brazil",887
+1238,"7/25/2021","Barma Krankenhausgesellschaft","Gerantrazeophem",600,1.87,"Austria",655
+1239,"2/20/2022","Eastern Hospital Group","Clobromizen",1300,1.44,"USA",119
+1240,"7/12/2021","Nisl Quisque","Alaraphosol",1900,0.92,"Brazil",887
+1241,"3/22/2020","Nisl Quisque","Diaprogenix",2000,0.04,"Brazil",887
+1242,"2/16/2021","Eu Dolor Companie","Alaraphosol",300,0.92,"Ecuador",887
+1243,"4/18/2021","At Pretium LLC","Zalofen",1400,39,"USA",332
+1244,"3/16/2021","Eu Dolor Companie","Zalofen",500,39,"Ecuador",887
+1245,"2/22/2022","Luctus Aliquet Plc","Colophrazen",600,1.23,"Brazil",887
+1246,"11/12/2022","Enim PC","Presterone",300,1.09,"USA",203
+1247,"1/1/2023","Enim PC","Presterone",400,1.09,"USA",203
+1248,"3/22/2021","Vitae Risus Incorporated","Colophrazen",1900,1.23,"USA",203
+1249,"9/4/2020","Enim PC","Xipramin",1200,0.72,"USA",203
+1250,"4/18/2022","Eleifend GMBH","Clobromizen",200,1.44,"Germany",100
+1251,"2/25/2023","Enim PC","Proxinostat",200,2.23,"USA",203
+1252,"1/26/2022","Erat Pharma","Zalofen",1500,39,"Germany",100
+1253,"6/26/2020","Eastern Hospital Group","Bhiktarvizem",800,3.87,"USA",119
+1254,"5/27/2021","Eu Dolor Companie","Presterone",500,1.09,"Ecuador",887
+1255,"6/20/2020","At Pretium LLC","Presterone",1700,1.09,"USA",332
+1256,"7/23/2021","Luctus Aliquet Plc","Zalofen",2000,39,"Brazil",887
+1257,"2/18/2022","Plaxus Medical","Presterone",800,1.09,"Canada",119
+1258,"5/14/2022","Lorem Luctus","Colophrazen",100,1.23,"USA",332
+1259,"3/9/2022","Varius Plc","Diaprogenix",800,0.04,"Brazil",887
+1260,"5/17/2021","Lorem Luctus","Gerantrazeophem",1200,1.87,"USA",332
+1261,"4/15/2023","Plaxus Medical","Colophrazen",900,1.23,"Canada",119
+1262,"9/2/2020","Luctus Aliquet Plc","Gerantrazeophem",1200,1.87,"Brazil",887
+1263,"10/7/2021","Proin Dolor Institut","Clobromizen",700,1.44,"Germany",221
+1264,"5/19/2023","Adipiscing Mauris Inc.","Xipramin",800,0.72,"USA",203
+1265,"5/6/2023","Vitae Risus Incorporated","Xinoprozen",300,2.82,"USA",203
+1266,"9/13/2021","Eu Dolor Companie","Presterone",1400,1.09,"Ecuador",887
+1267,"7/18/2022","At Pretium LLC","Clobromizen",1800,1.44,"USA",332
+1268,"4/7/2020","Vitae Risus Incorporated","Alaraphosol",1400,0.92,"USA",203
+1269,"10/8/2023","Lorem Luctus","Colophrazen",1200,1.23,"USA",332
+1270,"9/19/2021","Eastern Hospital Group","Xipramin",1700,0.72,"USA",119
+1271,"2/18/2023","Eleifend GMBH","Proxinostat",1800,2.23,"Germany",100
+1272,"5/3/2021","Luctus Aliquet Plc","Clobromizen",1300,1.44,"Brazil",887
+1273,"11/23/2021","Eu Dolor Companie","Colophrazen",1200,1.23,"Ecuador",887
+1274,"4/10/2022","Barma Krankenhausgesellschaft","Xinoprozen",200,2.82,"Austria",655
+1275,"10/16/2022","Proin Dolor Institut","Clobromizen",1500,1.44,"Germany",221
+1276,"11/9/2022","Varius Plc","Bhiktarvizem",1000,3.87,"Brazil",887
+1277,"1/5/2021","Pain Management Center","Xinoprozen",1100,2.82,"USA",332
+1278,"6/21/2022","Eleifend GMBH","Diaprogenix",1900,0.04,"Germany",100
+1279,"7/23/2020","Eu Dolor Companie","Zalofen",1000,39,"Ecuador",887
+1280,"9/17/2021","Barma Krankenhausgesellschaft","Alaraphosol",1100,0.92,"Austria",655
+1281,"8/5/2022","Adipiscing Mauris Inc.","Gerantrazeophem",300,1.87,"USA",203
+1282,"9/26/2021","At Pretium LLC","Alaraphosol",900,0.92,"USA",332
+1283,"3/2/2020","At Pretium LLC","Presterone",1100,1.09,"USA",332
+1284,"11/12/2020","Eleifend GMBH","Gerantrazeophem",600,1.87,"Germany",100
+1285,"2/27/2021","Plaxus Medical","Colophrazen",800,1.23,"Canada",119
+1286,"8/12/2021","Adipiscing Mauris Inc.","Presterone",1200,1.09,"USA",203
+1287,"10/19/2020","Vitae Risus Incorporated","Xinoprozen",1500,2.82,"USA",203
+1288,"3/24/2022","At Pretium LLC","Zalofen",1500,39,"USA",332
+1289,"8/12/2022","At Pretium LLC","Bhiktarvizem",1700,3.87,"USA",332
+1290,"4/5/2023","Lorem Luctus","Presterone",1100,1.09,"USA",332
+1291,"10/24/2021","Nisl Quisque","Bhiktarvizem",400,3.87,"Brazil",887
+1292,"9/4/2021","Eastern Hospital Group","Bhiktarvizem",2000,3.87,"USA",119
+1293,"12/8/2021","Nisl Quisque","Zalofen",1500,39,"Brazil",887
+1294,"10/10/2021","Luctus Aliquet Plc","Proxinostat",1300,2.23,"Brazil",887
+1295,"2/3/2021","Barma Krankenhausgesellschaft","Colophrazen",200,1.23,"Austria",655
+1296,"10/7/2021","Enim PC","Bhiktarvizem",1800,3.87,"USA",203
+1297,"2/2/2020","Nisl Quisque","Xinoprozen",1100,2.82,"Brazil",887
+1298,"4/27/2023","Eleifend GMBH","Alaraphosol",1900,0.92,"Germany",100
+1299,"7/24/2023","Enim PC","Gerantrazeophem",1800,1.87,"USA",203
+1300,"10/3/2021","Plaxus Medical","Zalofen",1600,39,"Canada",119
+1301,"8/20/2021","Pain Management Center","Xinoprozen",1100,2.82,"USA",332
+1302,"11/3/2022","Eastern Hospital Group","Gerantrazeophem",800,1.87,"USA",119
+1303,"9/11/2021","Enim PC","Colophrazen",1100,1.23,"USA",203
+1304,"4/8/2021","Luctus Aliquet Plc","Zalofen",1000,39,"Brazil",887
+1305,"4/21/2021","At Pretium LLC","Xipramin",1000,0.72,"USA",332
+1306,"3/20/2021","At Pretium LLC","Xipramin",1700,0.72,"USA",332
+1307,"5/18/2021","Lorem Luctus","Zalofen",1400,39,"USA",332
+1308,"4/21/2022","Lorem Luctus","Presterone",100,1.09,"USA",332
+1309,"3/12/2020","Eleifend GMBH","Colophrazen",600,1.23,"Germany",100
+1310,"5/10/2022","Plaxus Medical","Colophrazen",200,1.23,"Canada",119
+1311,"6/11/2022","Eleifend GMBH","Xinoprozen",700,2.82,"Germany",100
+1312,"7/4/2023","Eu Dolor Companie","Bhiktarvizem",500,3.87,"Ecuador",887
+1313,"7/10/2022","Proin Dolor Institut","Colophrazen",1000,1.23,"Germany",221
+1314,"2/18/2022","Nisl Quisque","Clobromizen",1700,1.44,"Brazil",887
+1315,"2/23/2021","Saude Universal","Clobromizen",800,1.44,"Brazil",887
+1316,"5/13/2021","Eastern Hospital Group","Xinoprozen",600,2.82,"USA",119
+1317,"11/13/2023","Barma Krankenhausgesellschaft","Xipralofen",1300,4.76,"Austria",655
+1318,"5/3/2023","Varius Plc","Diaprogenix",300,0.04,"Brazil",887
+1319,"3/25/2023","Erat Pharma","Xipramin",200,0.72,"Germany",100
+1320,"4/19/2021","Enim PC","Colophrazen",100,1.23,"USA",203
+1321,"11/14/2021","Adipiscing Mauris Inc.","Xinoprozen",1400,2.82,"USA",203
+1322,"10/23/2023","Luctus Aliquet Plc","Alaraphosol",1700,0.92,"Brazil",887
+1323,"7/7/2021","Eleifend GMBH","Presterone",500,1.09,"Germany",100
+1324,"4/14/2022","At Pretium LLC","Xipralofen",1700,4.76,"USA",332
+1325,"3/27/2021","Lorem Luctus","Colophrazen",900,1.23,"USA",332
+1326,"7/13/2021","At Pretium LLC","Bhiktarvizem",200,3.87,"USA",332
+1327,"3/12/2022","Enim PC","Diaprogenix",800,0.04,"USA",203
+1328,"11/10/2021","Lorem Luctus","Diaprogenix",1000,0.04,"USA",332
+1329,"5/5/2021","Enim PC","Clobromizen",2000,1.44,"USA",203
+1330,"6/7/2023","Eastern Hospital Group","Clobromizen",900,1.44,"USA",119
+1331,"5/23/2021","Adipiscing Mauris Inc.","Presterone",700,1.09,"USA",203
+1332,"2/9/2023","Eu Dolor Companie","Colophrazen",1900,1.23,"Ecuador",887
+1333,"8/18/2021","Nisl Quisque","Alaraphosol",1800,0.92,"Brazil",887
+1334,"5/4/2022","Eastern Hospital Group","Xinoprozen",1900,2.82,"USA",119
+1335,"2/4/2020","Proin Dolor Institut","Diaprogenix",1100,0.04,"Germany",221
+1336,"6/24/2022","Lorem Luctus","Bhiktarvizem",500,3.87,"USA",332
+1337,"8/4/2021","Lorem Luctus","Gerantrazeophem",1800,1.87,"USA",332
+1338,"5/2/2021","Plaxus Medical","Gerantrazeophem",1500,1.87,"Canada",119
+1339,"1/22/2020","Barma Krankenhausgesellschaft","Proxinostat",1700,2.23,"Austria",655
+1340,"9/26/2020","At Pretium LLC","Xinoprozen",500,2.82,"USA",332
+1341,"8/21/2022","At Pretium LLC","Colophrazen",900,1.23,"USA",332
+1342,"2/18/2021","Luctus Aliquet Plc","Zalofen",400,39,"Brazil",887
+1343,"2/13/2020","Eu Dolor Companie","Gerantrazeophem",1700,1.87,"Ecuador",887
+1344,"10/19/2021","Barma Krankenhausgesellschaft","Colophrazen",600,1.23,"Austria",655
+1345,"11/7/2022","Nisl Quisque","Xipramin",700,0.72,"Brazil",887
+1346,"4/5/2021","Adipiscing Mauris Inc.","Alaraphosol",1300,0.92,"USA",203
+1347,"1/1/2022","Eleifend GMBH","Zalofen",1300,39,"Germany",100
+1348,"5/18/2023","Enim PC","Proxinostat",1600,2.23,"USA",203
+1349,"7/12/2022","Pain Management Center","Proxinostat",1000,2.23,"USA",332
+1350,"2/14/2022","Adipiscing Mauris Inc.","Diaprogenix",300,0.04,"USA",203
+1351,"7/6/2021","Nisl Quisque","Diaprogenix",1900,0.04,"Brazil",887
+1352,"5/4/2023","Saude Universal","Diaprogenix",300,0.04,"Brazil",887
+1353,"3/5/2022","Nisl Quisque","Xipralofen",1100,4.76,"Brazil",887
+1354,"6/23/2022","Nisl Quisque","Presterone",100,1.09,"Brazil",887
+1355,"9/13/2020","Barma Krankenhausgesellschaft","Presterone",1500,1.09,"Austria",655
+1356,"3/21/2020","Adipiscing Mauris Inc.","Gerantrazeophem",600,1.87,"USA",203
+1357,"8/10/2023","Barma Krankenhausgesellschaft","Bhiktarvizem",1300,3.87,"Austria",655
+1358,"3/14/2023","Vitae Risus Incorporated","Bhiktarvizem",1400,3.87,"USA",203
+1359,"6/8/2022","At Pretium LLC","Alaraphosol",1800,0.92,"USA",332
+1360,"8/17/2021","Proin Dolor Institut","Zalofen",700,39,"Germany",221
+1361,"4/18/2021","Lorem Luctus","Gerantrazeophem",1200,1.87,"USA",332
+1362,"4/13/2022","At Pretium LLC","Diaprogenix",700,0.04,"USA",332
+1363,"3/3/2020","Barma Krankenhausgesellschaft","Proxinostat",1600,2.23,"Austria",655
+1364,"7/4/2022","Vitae Risus Incorporated","Xipramin",1000,0.72,"USA",203
+1365,"1/12/2021","Luctus Aliquet Plc","Alaraphosol",700,0.92,"Brazil",887
+1366,"4/27/2021","Barma Krankenhausgesellschaft","Clobromizen",1600,1.44,"Austria",655
+1367,"10/23/2022","Nisl Quisque","Colophrazen",1600,1.23,"Brazil",887
+1368,"11/17/2023","Pain Management Center","Presterone",300,1.09,"USA",332
+1369,"11/12/2023","Adipiscing Mauris Inc.","Colophrazen",1500,1.23,"USA",203
+1370,"7/13/2020","Vitae Risus Incorporated","Zalofen",1000,39,"USA",203
+1371,"8/28/2022","Eu Dolor Companie","Clobromizen",1000,1.44,"Ecuador",887
+1372,"2/1/2020","Nisl Quisque","Colophrazen",900,1.23,"Brazil",887
+1373,"5/17/2020","Eleifend GMBH","Colophrazen",1300,1.23,"Germany",100
+1374,"3/20/2023","Enim PC","Xipralofen",800,4.76,"USA",203
+1375,"4/16/2021","Pain Management Center","Presterone",500,1.09,"USA",332
+1376,"7/21/2022","Adipiscing Mauris Inc.","Gerantrazeophem",1600,1.87,"USA",203
+1377,"10/27/2020","Adipiscing Mauris Inc.","Xinoprozen",1700,2.82,"USA",203
+1378,"9/6/2023","Enim PC","Bhiktarvizem",1100,3.87,"USA",203
+1379,"9/11/2020","Adipiscing Mauris Inc.","Zalofen",1500,39,"USA",203
+1380,"9/8/2023","Proin Dolor Institut","Presterone",1500,1.09,"Germany",221
+1381,"9/15/2022","Nisl Quisque","Xipramin",1200,0.72,"Brazil",887
+1382,"11/9/2021","Eleifend GMBH","Clobromizen",300,1.44,"Germany",100
+1383,"4/20/2022","Saude Universal","Xinoprozen",1500,2.82,"Brazil",887
+1384,"8/9/2022","Eastern Hospital Group","Diaprogenix",400,0.04,"USA",119
+1385,"10/27/2023","Adipiscing Mauris Inc.","Xipralofen",1500,4.76,"USA",203
+1386,"6/26/2022","Saude Universal","Presterone",1600,1.09,"Brazil",887
+1387,"12/25/2021","Proin Dolor Institut","Diaprogenix",1400,0.04,"Germany",221
+1388,"2/24/2021","Eu Dolor Companie","Bhiktarvizem",200,3.87,"Ecuador",887
+1389,"10/27/2020","Luctus Aliquet Plc","Xipralofen",1700,4.76,"Brazil",887
+1390,"4/23/2021","Pain Management Center","Alaraphosol",700,0.92,"USA",332
+1391,"9/4/2021","Pain Management Center","Presterone",600,1.09,"USA",332
+1392,"2/25/2022","Proin Dolor Institut","Proxinostat",1500,2.23,"Germany",221
+1393,"9/6/2022","Lorem Luctus","Alaraphosol",400,0.92,"USA",332
+1394,"2/12/2021","At Pretium LLC","Zalofen",1500,39,"USA",332
+1395,"5/21/2020","Varius Plc","Presterone",1200,1.09,"Brazil",887
+1396,"8/28/2022","Barma Krankenhausgesellschaft","Colophrazen",1400,1.23,"Austria",655
+1397,"11/19/2020","Barma Krankenhausgesellschaft","Proxinostat",100,2.23,"Austria",655
+1398,"10/20/2021","Proin Dolor Institut","Alaraphosol",600,0.92,"Germany",221
+1399,"5/14/2022","Nisl Quisque","Bhiktarvizem",400,3.87,"Brazil",887
+1400,"9/13/2022","Saude Universal","Diaprogenix",1200,0.04,"Brazil",887
+1401,"9/10/2023","Eleifend GMBH","Xinoprozen",1400,2.82,"Germany",100
+1402,"2/16/2023","Eleifend GMBH","Xinoprozen",900,2.82,"Germany",100
+1403,"9/24/2021","Vitae Risus Incorporated","Xinoprozen",400,2.82,"USA",203
+1404,"7/8/2022","Luctus Aliquet Plc","Gerantrazeophem",800,1.87,"Brazil",887
+1405,"5/12/2020","Eu Dolor Companie","Xinoprozen",1000,2.82,"Ecuador",887
+1406,"11/6/2020","Plaxus Medical","Alaraphosol",1100,0.92,"Canada",119
+1407,"7/25/2022","Luctus Aliquet Plc","Diaprogenix",1300,0.04,"Brazil",887
+1408,"10/24/2023","Erat Pharma","Bhiktarvizem",200,3.87,"Germany",100
+1409,"5/26/2021","Vitae Risus Incorporated","Proxinostat",700,2.23,"USA",203
+1410,"10/8/2022","Eu Dolor Companie","Xipramin",1400,0.72,"Ecuador",887
+1411,"5/19/2020","Lorem Luctus","Zalofen",2000,39,"USA",332
+1412,"11/9/2021","Eu Dolor Companie","Xipralofen",700,4.76,"Ecuador",887
+1413,"11/23/2022","Eastern Hospital Group","Xipramin",700,0.72,"USA",119
+1414,"9/21/2022","Luctus Aliquet Plc","Xinoprozen",300,2.82,"Brazil",887
+1415,"9/13/2021","Varius Plc","Alaraphosol",1300,0.92,"Brazil",887
+1416,"9/24/2021","Eu Dolor Companie","Gerantrazeophem",1000,1.87,"Ecuador",887
+1417,"10/4/2021","Eu Dolor Companie","Clobromizen",600,1.44,"Ecuador",887
+1418,"9/17/2022","Varius Plc","Xipramin",1300,0.72,"Brazil",887
+1419,"6/7/2021","Eleifend GMBH","Zalofen",1600,39,"Germany",100
+1420,"3/2/2020","Eastern Hospital Group","Alaraphosol",1800,0.92,"USA",119
+1421,"11/12/2022","Plaxus Medical","Bhiktarvizem",700,3.87,"Canada",119
+1422,"9/18/2021","Luctus Aliquet Plc","Alaraphosol",1000,0.92,"Brazil",887
+1423,"6/12/2022","Adipiscing Mauris Inc.","Xipramin",400,0.72,"USA",203
+1424,"4/1/2020","Eastern Hospital Group","Zalofen",1000,39,"USA",119
+1425,"12/7/2023","Eu Dolor Companie","Colophrazen",1500,1.23,"Ecuador",887
+1426,"2/10/2022","Eleifend GMBH","Proxinostat",1400,2.23,"Germany",100
+1427,"3/27/2023","Luctus Aliquet Plc","Xipramin",200,0.72,"Brazil",887
+1428,"9/26/2022","Vitae Risus Incorporated","Xipralofen",1200,4.76,"USA",203
+1429,"9/14/2023","Proin Dolor Institut","Presterone",1100,1.09,"Germany",221
+1430,"7/9/2021","Vitae Risus Incorporated","Alaraphosol",900,0.92,"USA",203
+1431,"8/25/2021","Barma Krankenhausgesellschaft","Gerantrazeophem",300,1.87,"Austria",655
+1432,"7/20/2021","Plaxus Medical","Clobromizen",1400,1.44,"Canada",119
+1433,"11/22/2021","Plaxus Medical","Zalofen",1000,39,"Canada",119
+1434,"10/12/2022","Luctus Aliquet Plc","Presterone",1700,1.09,"Brazil",887
+1435,"11/17/2023","Saude Universal","Xinoprozen",200,2.82,"Brazil",887
+1436,"8/11/2022","Luctus Aliquet Plc","Diaprogenix",1300,0.04,"Brazil",887
+1437,"5/19/2021","Saude Universal","Proxinostat",600,2.23,"Brazil",887
+1438,"9/13/2022","Adipiscing Mauris Inc.","Alaraphosol",800,0.92,"USA",203
+1439,"5/17/2021","Eastern Hospital Group","Colophrazen",1700,1.23,"USA",119
+1440,"1/9/2021","Pain Management Center","Zalofen",1100,39,"USA",332
+1441,"8/1/2023","Eu Dolor Companie","Clobromizen",1700,1.44,"Ecuador",887
+1442,"8/14/2021","Eleifend GMBH","Colophrazen",1500,1.23,"Germany",100
+1443,"5/1/2023","Proin Dolor Institut","Bhiktarvizem",500,3.87,"Germany",221
+1444,"2/12/2021","Varius Plc","Alaraphosol",1900,0.92,"Brazil",887
+1445,"6/17/2022","Vitae Risus Incorporated","Clobromizen",600,1.44,"USA",203
+1446,"11/21/2022","Nisl Quisque","Clobromizen",1000,1.44,"Brazil",887
+1447,"7/13/2022","Eleifend GMBH","Presterone",1600,1.09,"Germany",100
+1448,"1/9/2021","Enim PC","Colophrazen",300,1.23,"USA",203
+1449,"8/21/2023","At Pretium LLC","Bhiktarvizem",1000,3.87,"USA",332
+1450,"11/14/2023","Erat Pharma","Zalofen",800,39,"Germany",100
+1451,"6/3/2020","Pain Management Center","Clobromizen",700,1.44,"USA",332
+1452,"1/11/2021","Varius Plc","Gerantrazeophem",500,1.87,"Brazil",887
+1453,"2/20/2020","Lorem Luctus","Proxinostat",1500,2.23,"USA",332
+1454,"3/26/2020","Plaxus Medical","Colophrazen",1800,1.23,"Canada",119
+1455,"9/11/2023","Plaxus Medical","Alaraphosol",1700,0.92,"Canada",119
+1456,"9/27/2022","Saude Universal","Xinoprozen",1700,2.82,"Brazil",887
+1457,"4/12/2021","Eastern Hospital Group","Alaraphosol",1200,0.92,"USA",119
+1458,"1/21/2021","Enim PC","Zalofen",1300,39,"USA",203
+1459,"7/5/2020","Adipiscing Mauris Inc.","Clobromizen",400,1.44,"USA",203
+1460,"5/14/2022","Vitae Risus Incorporated","Diaprogenix",1200,0.04,"USA",203
+1461,"9/14/2023","Eu Dolor Companie","Bhiktarvizem",1800,3.87,"Ecuador",887
+1462,"2/2/2020","At Pretium LLC","Presterone",300,1.09,"USA",332
+1463,"7/25/2022","At Pretium LLC","Xipramin",1300,0.72,"USA",332
+1464,"3/11/2021","Erat Pharma","Presterone",1700,1.09,"Germany",100
+1465,"9/4/2020","Luctus Aliquet Plc","Colophrazen",1400,1.23,"Brazil",887
+1466,"8/13/2021","Eu Dolor Companie","Colophrazen",1400,1.23,"Ecuador",887
+1467,"10/2/2021","Plaxus Medical","Colophrazen",1100,1.23,"Canada",119
+1468,"9/23/2022","Varius Plc","Colophrazen",500,1.23,"Brazil",887
+1469,"10/26/2022","Pain Management Center","Bhiktarvizem",1200,3.87,"USA",332
+1470,"10/22/2020","Saude Universal","Alaraphosol",800,0.92,"Brazil",887
+1471,"6/26/2021","Plaxus Medical","Proxinostat",1600,2.23,"Canada",119
+1472,"6/11/2022","Lorem Luctus","Alaraphosol",800,0.92,"USA",332
+1473,"6/27/2021","Varius Plc","Colophrazen",800,1.23,"Brazil",887
+1474,"6/9/2022","Pain Management Center","Bhiktarvizem",1500,3.87,"USA",332
+1475,"2/28/2022","Nisl Quisque","Bhiktarvizem",1800,3.87,"Brazil",887
+1476,"3/8/2021","Varius Plc","Zalofen",500,39,"Brazil",887
+1477,"10/8/2022","Vitae Risus Incorporated","Colophrazen",900,1.23,"USA",203
+1478,"6/16/2023","Eleifend GMBH","Gerantrazeophem",1600,1.87,"Germany",100
+1479,"8/27/2021","Vitae Risus Incorporated","Xipralofen",1500,4.76,"USA",203
+1480,"7/24/2020","Eleifend GMBH","Clobromizen",300,1.44,"Germany",100
+1481,"12/7/2022","Adipiscing Mauris Inc.","Xinoprozen",1300,2.82,"USA",203
+1482,"5/24/2021","Eleifend GMBH","Diaprogenix",1000,0.04,"Germany",100
+1483,"11/14/2022","Lorem Luctus","Colophrazen",1500,1.23,"USA",332
+1484,"6/2/2020","Pain Management Center","Zalofen",1900,39,"USA",332
+1485,"5/2/2022","Vitae Risus Incorporated","Xinoprozen",1500,2.82,"USA",203
+1486,"3/13/2021","Varius Plc","Clobromizen",1200,1.44,"Brazil",887
+1487,"3/27/2021","Barma Krankenhausgesellschaft","Xipramin",2000,0.72,"Austria",655
+1488,"11/13/2021","Plaxus Medical","Xinoprozen",600,2.82,"Canada",119
+1489,"2/27/2023","Saude Universal","Alaraphosol",1900,0.92,"Brazil",887
+1490,"6/1/2023","Pain Management Center","Proxinostat",1800,2.23,"USA",332
+1491,"11/19/2021","Eastern Hospital Group","Bhiktarvizem",200,3.87,"USA",119
+1492,"2/9/2023","Lorem Luctus","Clobromizen",700,1.44,"USA",332
+1493,"9/20/2023","Luctus Aliquet Plc","Proxinostat",200,2.23,"Brazil",887
+1494,"3/4/2021","Luctus Aliquet Plc","Clobromizen",300,1.44,"Brazil",887
+1495,"9/27/2021","Enim PC","Proxinostat",700,2.23,"USA",203
+1496,"4/26/2021","Lorem Luctus","Alaraphosol",1600,0.92,"USA",332
+1497,"3/18/2021","Proin Dolor Institut","Colophrazen",800,1.23,"Germany",221
+1498,"4/15/2022","Vitae Risus Incorporated","Clobromizen",1800,1.44,"USA",203
+1499,"4/12/2023","Vitae Risus Incorporated","Gerantrazeophem",700,1.87,"USA",203
+1500,"11/5/2022","Erat Pharma","Diaprogenix",1100,0.04,"Germany",100
+1501,"7/25/2023","Luctus Aliquet Plc","Presterone",500,1.09,"Brazil",887
+1502,"11/8/2022","Proin Dolor Institut","Bhiktarvizem",1900,3.87,"Germany",221
+1503,"11/26/2022","Eleifend GMBH","Xinoprozen",900,2.82,"Germany",100
+1504,"11/22/2021","Barma Krankenhausgesellschaft","Colophrazen",500,1.23,"Austria",655
+1505,"8/26/2021","Enim PC","Colophrazen",1100,1.23,"USA",203
+1506,"7/25/2023","Plaxus Medical","Proxinostat",1700,2.23,"Canada",119
+1507,"11/1/2023","At Pretium LLC","Clobromizen",1800,1.44,"USA",332
+1508,"3/23/2023","Barma Krankenhausgesellschaft","Zalofen",1900,39,"Austria",655
+1509,"12/26/2023","Barma Krankenhausgesellschaft","Colophrazen",400,1.23,"Austria",655
+1510,"1/8/2022","Barma Krankenhausgesellschaft","Bhiktarvizem",900,3.87,"Austria",655
+1511,"2/3/2021","Barma Krankenhausgesellschaft","Gerantrazeophem",1000,1.87,"Austria",655
+1512,"6/16/2020","Varius Plc","Xipralofen",800,4.76,"Brazil",887
+1513,"6/17/2022","Erat Pharma","Xipralofen",700,4.76,"Germany",100
+1514,"10/3/2022","Proin Dolor Institut","Gerantrazeophem",1000,1.87,"Germany",221
+1515,"4/10/2023","Vitae Risus Incorporated","Diaprogenix",1400,0.04,"USA",203
+1516,"10/11/2021","Vitae Risus Incorporated","Diaprogenix",1400,0.04,"USA",203
+1517,"4/28/2022","Pain Management Center","Gerantrazeophem",1900,1.87,"USA",332
+1518,"3/16/2021","Varius Plc","Alaraphosol",1200,0.92,"Brazil",887
+1519,"10/25/2022","At Pretium LLC","Bhiktarvizem",800,3.87,"USA",332
+1520,"9/10/2020","Eu Dolor Companie","Diaprogenix",1600,0.04,"Ecuador",887
+1521,"10/26/2023","Luctus Aliquet Plc","Clobromizen",1700,1.44,"Brazil",887
+1522,"10/7/2022","Plaxus Medical","Gerantrazeophem",400,1.87,"Canada",119
+1523,"6/15/2021","Lorem Luctus","Bhiktarvizem",1400,3.87,"USA",332
+1524,"10/4/2021","Varius Plc","Zalofen",500,39,"Brazil",887
+1525,"3/18/2023","Proin Dolor Institut","Zalofen",300,39,"Germany",221
+1526,"12/14/2023","Eleifend GMBH","Xinoprozen",500,2.82,"Germany",100
+1527,"3/19/2021","Plaxus Medical","Presterone",1600,1.09,"Canada",119
+1528,"8/15/2021","Vitae Risus Incorporated","Clobromizen",200,1.44,"USA",203
+1529,"9/3/2021","Pain Management Center","Bhiktarvizem",800,3.87,"USA",332
+1530,"10/4/2022","Pain Management Center","Clobromizen",1500,1.44,"USA",332
+1531,"5/21/2021","Pain Management Center","Colophrazen",1900,1.23,"USA",332
+1532,"7/22/2022","Adipiscing Mauris Inc.","Alaraphosol",800,0.92,"USA",203
+1533,"7/13/2022","Varius Plc","Gerantrazeophem",1800,1.87,"Brazil",887
+1534,"11/1/2021","Plaxus Medical","Proxinostat",1000,2.23,"Canada",119
+1535,"3/3/2023","Enim PC","Proxinostat",1300,2.23,"USA",203
+1536,"6/7/2021","Lorem Luctus","Proxinostat",600,2.23,"USA",332
+1537,"6/12/2021","Proin Dolor Institut","Bhiktarvizem",600,3.87,"Germany",221
+1538,"10/24/2021","Eleifend GMBH","Bhiktarvizem",700,3.87,"Germany",100
+1539,"8/17/2020","Enim PC","Bhiktarvizem",700,3.87,"USA",203
+1540,"9/3/2021","Eleifend GMBH","Xinoprozen",600,2.82,"Germany",100
+1541,"6/9/2021","At Pretium LLC","Gerantrazeophem",500,1.87,"USA",332
+1542,"3/18/2021","Eu Dolor Companie","Diaprogenix",1900,0.04,"Ecuador",887
+1543,"3/9/2020","Proin Dolor Institut","Diaprogenix",400,0.04,"Germany",221
+1544,"9/2/2022","Saude Universal","Colophrazen",500,1.23,"Brazil",887
+1545,"5/13/2020","Vitae Risus Incorporated","Diaprogenix",1400,0.04,"USA",203
+1546,"8/1/2021","Erat Pharma","Clobromizen",500,1.44,"Germany",100
+1547,"6/16/2023","Nisl Quisque","Bhiktarvizem",1500,3.87,"Brazil",887
+1548,"12/8/2021","Lorem Luctus","Xinoprozen",200,2.82,"USA",332
+1549,"11/7/2021","Nisl Quisque","Alaraphosol",1700,0.92,"Brazil",887
+1550,"3/20/2023","Luctus Aliquet Plc","Proxinostat",700,2.23,"Brazil",887
+1551,"8/25/2021","Varius Plc","Alaraphosol",1300,0.92,"Brazil",887
+1552,"1/9/2022","Eastern Hospital Group","Alaraphosol",400,0.92,"USA",119
+1553,"2/11/2022","Enim PC","Diaprogenix",1500,0.04,"USA",203
+1554,"4/10/2022","Barma Krankenhausgesellschaft","Bhiktarvizem",1900,3.87,"Austria",655
+1555,"4/3/2020","Nisl Quisque","Zalofen",2000,39,"Brazil",887
+1556,"11/11/2022","Erat Pharma","Zalofen",1900,39,"Germany",100
+1557,"3/5/2022","Vitae Risus Incorporated","Xinoprozen",100,2.82,"USA",203
+1558,"2/14/2021","Barma Krankenhausgesellschaft","Gerantrazeophem",1500,1.87,"Austria",655
+1559,"11/22/2022","Lorem Luctus","Proxinostat",300,2.23,"USA",332
+1560,"6/8/2020","Eleifend GMBH","Diaprogenix",1500,0.04,"Germany",100
+1561,"4/5/2023","Pain Management Center","Colophrazen",1200,1.23,"USA",332
+1562,"9/1/2020","Adipiscing Mauris Inc.","Bhiktarvizem",1700,3.87,"USA",203
+1563,"8/14/2020","At Pretium LLC","Zalofen",700,39,"USA",332
+1564,"10/5/2022","Luctus Aliquet Plc","Gerantrazeophem",800,1.87,"Brazil",887
+1565,"7/4/2021","Eastern Hospital Group","Alaraphosol",400,0.92,"USA",119
+1566,"12/23/2022","Luctus Aliquet Plc","Clobromizen",100,1.44,"Brazil",887
+1567,"12/19/2022","Barma Krankenhausgesellschaft","Presterone",300,1.09,"Austria",655
+1568,"2/7/2022","Luctus Aliquet Plc","Gerantrazeophem",300,1.87,"Brazil",887
+1569,"2/14/2021","Plaxus Medical","Xinoprozen",1100,2.82,"Canada",119
+1570,"4/27/2021","Proin Dolor Institut","Presterone",500,1.09,"Germany",221
+1571,"5/2/2022","Varius Plc","Clobromizen",1400,1.44,"Brazil",887
+1572,"10/17/2022","Adipiscing Mauris Inc.","Colophrazen",300,1.23,"USA",203
+1573,"10/17/2021","Eastern Hospital Group","Clobromizen",800,1.44,"USA",119
+1574,"12/16/2020","Barma Krankenhausgesellschaft","Xipramin",1400,0.72,"Austria",655
+1575,"11/26/2020","Eleifend GMBH","Diaprogenix",1400,0.04,"Germany",100
+1576,"8/22/2022","Lorem Luctus","Xinoprozen",1400,2.82,"USA",332
+1577,"11/12/2021","Eastern Hospital Group","Zalofen",1500,39,"USA",119
+1578,"11/25/2023","Eu Dolor Companie","Colophrazen",1700,1.23,"Ecuador",887
+1579,"8/3/2021","Barma Krankenhausgesellschaft","Diaprogenix",700,0.04,"Austria",655
+1580,"3/25/2020","At Pretium LLC","Diaprogenix",800,0.04,"USA",332
+1581,"5/8/2021","Lorem Luctus","Xinoprozen",500,2.82,"USA",332
+1582,"5/23/2022","At Pretium LLC","Alaraphosol",400,0.92,"USA",332
+1583,"12/13/2023","Lorem Luctus","Diaprogenix",1700,0.04,"USA",332
+1584,"6/8/2022","Barma Krankenhausgesellschaft","Proxinostat",800,2.23,"Austria",655
+1585,"4/3/2020","Lorem Luctus","Proxinostat",100,2.23,"USA",332
+1586,"8/8/2023","Luctus Aliquet Plc","Proxinostat",500,2.23,"Brazil",887
+1587,"10/5/2020","Eastern Hospital Group","Bhiktarvizem",1000,3.87,"USA",119
+1588,"11/9/2023","Nisl Quisque","Zalofen",400,39,"Brazil",887
+1589,"8/11/2022","Plaxus Medical","Gerantrazeophem",1700,1.87,"Canada",119
+1590,"10/25/2023","Luctus Aliquet Plc","Zalofen",1400,39,"Brazil",887
+1591,"12/12/2023","Saude Universal","Xinoprozen",1900,2.82,"Brazil",887
+1592,"4/19/2021","Barma Krankenhausgesellschaft","Presterone",700,1.09,"Austria",655
+1593,"7/26/2020","Nisl Quisque","Gerantrazeophem",800,1.87,"Brazil",887
+1594,"4/8/2023","At Pretium LLC","Clobromizen",200,1.44,"USA",332
+1595,"9/13/2021","Proin Dolor Institut","Presterone",1400,1.09,"Germany",221
+1596,"6/27/2022","Eleifend GMBH","Diaprogenix",300,0.04,"Germany",100
+1597,"4/4/2021","Luctus Aliquet Plc","Zalofen",1300,39,"Brazil",887
+1598,"7/19/2022","Barma Krankenhausgesellschaft","Gerantrazeophem",1200,1.87,"Austria",655
+1599,"2/24/2022","Enim PC","Alaraphosol",1500,0.92,"USA",203
+1600,"11/24/2022","Eu Dolor Companie","Bhiktarvizem",2000,3.87,"Ecuador",887
+1601,"11/3/2022","Proin Dolor Institut","Presterone",1000,1.09,"Germany",221
+1602,"4/19/2022","Luctus Aliquet Plc","Clobromizen",1200,1.44,"Brazil",887
+1603,"11/15/2022","Adipiscing Mauris Inc.","Bhiktarvizem",1200,3.87,"USA",203
+1604,"6/14/2022","Barma Krankenhausgesellschaft","Colophrazen",1500,1.23,"Austria",655
+1605,"4/17/2021","Proin Dolor Institut","Colophrazen",1100,1.23,"Germany",221
+1606,"3/18/2020","Vitae Risus Incorporated","Gerantrazeophem",500,1.87,"USA",203
+1607,"6/14/2022","Proin Dolor Institut","Colophrazen",1000,1.23,"Germany",221
+1608,"4/5/2023","Vitae Risus Incorporated","Colophrazen",500,1.23,"USA",203
+1609,"3/23/2021","Pain Management Center","Alaraphosol",1400,0.92,"USA",332
+1610,"7/27/2020","Erat Pharma","Proxinostat",1700,2.23,"Germany",100
+1611,"6/23/2021","Eu Dolor Companie","Bhiktarvizem",1000,3.87,"Ecuador",887
+1612,"8/9/2020","Plaxus Medical","Colophrazen",700,1.23,"Canada",119
+1613,"9/13/2023","Nisl Quisque","Colophrazen",800,1.23,"Brazil",887
+1614,"8/15/2023","Nisl Quisque","Clobromizen",200,1.44,"Brazil",887
+1615,"6/18/2021","At Pretium LLC","Colophrazen",1500,1.23,"USA",332
+1616,"7/3/2022","Adipiscing Mauris Inc.","Xinoprozen",1800,2.82,"USA",203
+1617,"10/16/2020","At Pretium LLC","Colophrazen",800,1.23,"USA",332
+1618,"1/22/2022","Eastern Hospital Group","Presterone",500,1.09,"USA",119
+1619,"11/7/2021","Plaxus Medical","Bhiktarvizem",1200,3.87,"Canada",119
+1620,"12/16/2021","Proin Dolor Institut","Bhiktarvizem",800,3.87,"Germany",221
+1621,"2/15/2020","Vitae Risus Incorporated","Gerantrazeophem",100,1.87,"USA",203
+1622,"5/26/2022","Saude Universal","Alaraphosol",300,0.92,"Brazil",887
+1623,"9/24/2020","Eleifend GMBH","Xinoprozen",1300,2.82,"Germany",100
+1624,"4/27/2020","Eu Dolor Companie","Proxinostat",1900,2.23,"Ecuador",887
+1625,"6/7/2022","Eu Dolor Companie","Alaraphosol",400,0.92,"Ecuador",887
+1626,"11/17/2021","Nisl Quisque","Proxinostat",1900,2.23,"Brazil",887
+1627,"2/26/2021","Barma Krankenhausgesellschaft","Bhiktarvizem",200,3.87,"Austria",655
+1628,"7/2/2021","Proin Dolor Institut","Alaraphosol",500,0.92,"Germany",221
+1629,"9/15/2021","Luctus Aliquet Plc","Diaprogenix",1500,0.04,"Brazil",887
+1630,"9/24/2022","Saude Universal","Clobromizen",1800,1.44,"Brazil",887
+1631,"1/19/2021","Eu Dolor Companie","Alaraphosol",1500,0.92,"Ecuador",887
+1632,"7/26/2021","Nisl Quisque","Xipralofen",700,4.76,"Brazil",887
+1633,"5/18/2021","Pain Management Center","Presterone",300,1.09,"USA",332
+1634,"11/22/2022","Adipiscing Mauris Inc.","Xipramin",1700,0.72,"USA",203
+1635,"3/24/2021","Eastern Hospital Group","Gerantrazeophem",600,1.87,"USA",119
+1636,"5/20/2022","Proin Dolor Institut","Proxinostat",800,2.23,"Germany",221
+1637,"4/15/2022","Luctus Aliquet Plc","Bhiktarvizem",1600,3.87,"Brazil",887
+1638,"7/21/2022","Eu Dolor Companie","Colophrazen",1600,1.23,"Ecuador",887
+1639,"2/9/2023","Luctus Aliquet Plc","Colophrazen",1400,1.23,"Brazil",887
+1640,"3/15/2022","Enim PC","Xinoprozen",500,2.82,"USA",203
+1641,"2/19/2023","Luctus Aliquet Plc","Xinoprozen",1500,2.82,"Brazil",887
+1642,"1/7/2023","Nisl Quisque","Alaraphosol",700,0.92,"Brazil",887
+1643,"1/3/2020","Luctus Aliquet Plc","Xinoprozen",500,2.82,"Brazil",887
+1644,"5/19/2020","Plaxus Medical","Bhiktarvizem",1500,3.87,"Canada",119
+1645,"11/8/2021","Pain Management Center","Proxinostat",1900,2.23,"USA",332
+1646,"3/12/2023","Barma Krankenhausgesellschaft","Diaprogenix",1500,0.04,"Austria",655
+1647,"11/7/2021","Luctus Aliquet Plc","Presterone",700,1.09,"Brazil",887
+1648,"3/25/2022","Eastern Hospital Group","Zalofen",1800,39,"USA",119
+1649,"5/6/2021","Nisl Quisque","Proxinostat",900,2.23,"Brazil",887
+1650,"11/14/2022","Barma Krankenhausgesellschaft","Clobromizen",1800,1.44,"Austria",655
+1651,"7/6/2021","Enim PC","Proxinostat",900,2.23,"USA",203
+1652,"10/14/2022","Luctus Aliquet Plc","Alaraphosol",1600,0.92,"Brazil",887
+1653,"4/20/2021","Nisl Quisque","Alaraphosol",700,0.92,"Brazil",887
+1654,"10/7/2020","Lorem Luctus","Presterone",700,1.09,"USA",332
+1655,"8/25/2020","At Pretium LLC","Gerantrazeophem",1400,1.87,"USA",332
+1656,"3/15/2021","Saude Universal","Colophrazen",1000,1.23,"Brazil",887
+1657,"9/3/2021","Vitae Risus Incorporated","Diaprogenix",1900,0.04,"USA",203
+1658,"6/27/2023","Plaxus Medical","Xinoprozen",400,2.82,"Canada",119
+1659,"7/6/2020","Luctus Aliquet Plc","Clobromizen",1700,1.44,"Brazil",887
+1660,"5/10/2022","Proin Dolor Institut","Presterone",1500,1.09,"Germany",221
+1661,"7/18/2022","Barma Krankenhausgesellschaft","Bhiktarvizem",200,3.87,"Austria",655
+1662,"7/21/2023","Barma Krankenhausgesellschaft","Xinoprozen",200,2.82,"Austria",655
+1663,"7/5/2022","Erat Pharma","Proxinostat",900,2.23,"Germany",100
+1664,"12/27/2023","Nisl Quisque","Diaprogenix",800,0.04,"Brazil",887
+1665,"2/28/2022","Eastern Hospital Group","Clobromizen",2000,1.44,"USA",119
+1666,"4/19/2021","Barma Krankenhausgesellschaft","Clobromizen",1700,1.44,"Austria",655
+1667,"5/10/2022","Nisl Quisque","Presterone",200,1.09,"Brazil",887
+1668,"1/25/2023","Plaxus Medical","Diaprogenix",700,0.04,"Canada",119
+1669,"3/28/2021","Vitae Risus Incorporated","Proxinostat",1700,2.23,"USA",203
+1670,"7/6/2022","Barma Krankenhausgesellschaft","Alaraphosol",1700,0.92,"Austria",655
+1671,"10/12/2022","Eleifend GMBH","Zalofen",1400,39,"Germany",100
+1672,"4/15/2021","Plaxus Medical","Presterone",1100,1.09,"Canada",119
+1673,"4/10/2022","Nisl Quisque","Clobromizen",100,1.44,"Brazil",887
+1674,"11/22/2021","Vitae Risus Incorporated","Clobromizen",800,1.44,"USA",203
+1675,"6/13/2022","Eastern Hospital Group","Bhiktarvizem",1800,3.87,"USA",119
+1676,"5/4/2020","Barma Krankenhausgesellschaft","Gerantrazeophem",1400,1.87,"Austria",655
+1677,"10/18/2021","Luctus Aliquet Plc","Proxinostat",700,2.23,"Brazil",887
+1678,"7/7/2023","Lorem Luctus","Colophrazen",700,1.23,"USA",332
+1679,"11/11/2023","Eleifend GMBH","Bhiktarvizem",700,3.87,"Germany",100
+1680,"6/19/2021","Enim PC","Gerantrazeophem",700,1.87,"USA",203
+1681,"10/13/2021","Eu Dolor Companie","Colophrazen",1700,1.23,"Ecuador",887
+1682,"3/2/2020","Erat Pharma","Presterone",400,1.09,"Germany",100
+1683,"11/15/2021","Varius Plc","Alaraphosol",1300,0.92,"Brazil",887
+1684,"6/22/2021","At Pretium LLC","Xipralofen",700,4.76,"USA",332
+1685,"7/20/2021","Proin Dolor Institut","Zalofen",1300,39,"Germany",221
+1686,"8/18/2020","Saude Universal","Diaprogenix",100,0.04,"Brazil",887
+1687,"6/1/2022","Lorem Luctus","Gerantrazeophem",1800,1.87,"USA",332
+1688,"5/7/2021","Luctus Aliquet Plc","Gerantrazeophem",300,1.87,"Brazil",887
+1689,"6/15/2023","Pain Management Center","Zalofen",800,39,"USA",332
+1690,"8/17/2022","Eastern Hospital Group","Proxinostat",1600,2.23,"USA",119
+1691,"10/23/2020","Enim PC","Clobromizen",1200,1.44,"USA",203
+1692,"2/21/2021","Eu Dolor Companie","Alaraphosol",1200,0.92,"Ecuador",887
+1693,"1/28/2023","Adipiscing Mauris Inc.","Colophrazen",1700,1.23,"USA",203
+1694,"12/14/2021","Varius Plc","Xipralofen",2000,4.76,"Brazil",887
+1695,"2/24/2022","Saude Universal","Diaprogenix",1000,0.04,"Brazil",887
+1696,"5/22/2023","Eu Dolor Companie","Clobromizen",800,1.44,"Ecuador",887
+1697,"2/14/2022","At Pretium LLC","Alaraphosol",1700,0.92,"USA",332
+1698,"2/23/2021","Luctus Aliquet Plc","Bhiktarvizem",600,3.87,"Brazil",887
+1699,"6/4/2022","Vitae Risus Incorporated","Proxinostat",1800,2.23,"USA",203
+1700,"11/18/2020","Barma Krankenhausgesellschaft","Xipramin",300,0.72,"Austria",655
+1701,"7/11/2022","Enim PC","Proxinostat",1000,2.23,"USA",203
+1702,"10/22/2023","Eleifend GMBH","Presterone",1900,1.09,"Germany",100
+1703,"7/3/2021","Vitae Risus Incorporated","Bhiktarvizem",600,3.87,"USA",203
+1704,"10/23/2022","Nisl Quisque","Proxinostat",1700,2.23,"Brazil",887
+1705,"9/25/2022","Lorem Luctus","Presterone",600,1.09,"USA",332
+1706,"8/10/2022","Proin Dolor Institut","Colophrazen",800,1.23,"Germany",221
+1707,"12/9/2023","Luctus Aliquet Plc","Proxinostat",600,2.23,"Brazil",887
+1708,"12/4/2023","Vitae Risus Incorporated","Proxinostat",1100,2.23,"USA",203
+1709,"9/7/2021","Eu Dolor Companie","Proxinostat",1600,2.23,"Ecuador",887
+1710,"3/27/2022","Varius Plc","Diaprogenix",900,0.04,"Brazil",887
+1711,"5/26/2021","Barma Krankenhausgesellschaft","Gerantrazeophem",300,1.87,"Austria",655
+1712,"6/18/2022","Erat Pharma","Clobromizen",1100,1.44,"Germany",100
+1713,"1/18/2021","Enim PC","Zalofen",1200,39,"USA",203
+1714,"10/26/2020","At Pretium LLC","Diaprogenix",1000,0.04,"USA",332
+1715,"10/13/2023","Lorem Luctus","Gerantrazeophem",600,1.87,"USA",332
+1716,"6/22/2023","Varius Plc","Clobromizen",100,1.44,"Brazil",887
+1717,"3/5/2021","Barma Krankenhausgesellschaft","Xinoprozen",400,2.82,"Austria",655
+1718,"4/18/2020","Eleifend GMBH","Proxinostat",300,2.23,"Germany",100
+1719,"12/13/2021","Barma Krankenhausgesellschaft","Alaraphosol",1800,0.92,"Austria",655
+1720,"10/11/2020","Proin Dolor Institut","Gerantrazeophem",400,1.87,"Germany",221
+1721,"6/15/2022","At Pretium LLC","Presterone",1600,1.09,"USA",332
+1722,"4/27/2023","Adipiscing Mauris Inc.","Zalofen",900,39,"USA",203
+1723,"10/7/2021","Eastern Hospital Group","Zalofen",500,39,"USA",119
+1724,"4/13/2023","Adipiscing Mauris Inc.","Clobromizen",1400,1.44,"USA",203
+1725,"6/26/2021","Varius Plc","Proxinostat",500,2.23,"Brazil",887
+1726,"9/16/2021","Lorem Luctus","Diaprogenix",500,0.04,"USA",332
+1727,"2/10/2021","Lorem Luctus","Xipramin",1300,0.72,"USA",332
+1728,"6/27/2022","Proin Dolor Institut","Alaraphosol",1000,0.92,"Germany",221
+1729,"9/5/2023","Eastern Hospital Group","Bhiktarvizem",1300,3.87,"USA",119
+1730,"1/12/2022","Adipiscing Mauris Inc.","Diaprogenix",1200,0.04,"USA",203
+1731,"6/26/2022","Eu Dolor Companie","Presterone",200,1.09,"Ecuador",887
+1732,"2/25/2021","Nisl Quisque","Diaprogenix",900,0.04,"Brazil",887
+1733,"7/18/2021","Adipiscing Mauris Inc.","Alaraphosol",1800,0.92,"USA",203
+1734,"1/19/2020","Plaxus Medical","Colophrazen",900,1.23,"Canada",119
+1735,"12/15/2022","Adipiscing Mauris Inc.","Xinoprozen",1100,2.82,"USA",203
+1736,"7/12/2022","Lorem Luctus","Zalofen",1400,39,"USA",332
+1737,"12/14/2021","Enim PC","Presterone",1900,1.09,"USA",203
+1738,"2/7/2020","Lorem Luctus","Diaprogenix",300,0.04,"USA",332
+1739,"2/1/2022","Enim PC","Xinoprozen",1100,2.82,"USA",203
+1740,"7/22/2022","Vitae Risus Incorporated","Gerantrazeophem",1000,1.87,"USA",203
+1741,"5/12/2021","Vitae Risus Incorporated","Proxinostat",200,2.23,"USA",203
+1742,"1/3/2022","Plaxus Medical","Proxinostat",1900,2.23,"Canada",119
+1743,"9/9/2023","At Pretium LLC","Gerantrazeophem",1900,1.87,"USA",332
+1744,"5/24/2023","Plaxus Medical","Xipralofen",800,4.76,"Canada",119
+1745,"7/26/2023","Luctus Aliquet Plc","Bhiktarvizem",1100,3.87,"Brazil",887
+1746,"5/18/2021","Eu Dolor Companie","Zalofen",2000,39,"Ecuador",887
+1747,"5/15/2023","Eastern Hospital Group","Zalofen",1300,39,"USA",119
+1748,"10/15/2022","Proin Dolor Institut","Zalofen",800,39,"Germany",221
+1749,"9/15/2023","Enim PC","Proxinostat",600,2.23,"USA",203
+1750,"9/14/2020","Adipiscing Mauris Inc.","Alaraphosol",1300,0.92,"USA",203
+1751,"4/17/2023","Plaxus Medical","Xinoprozen",1400,2.82,"Canada",119
+1752,"9/16/2022","Barma Krankenhausgesellschaft","Xinoprozen",1700,2.82,"Austria",655
+1753,"10/4/2023","Proin Dolor Institut","Alaraphosol",300,0.92,"Germany",221
+1754,"4/21/2022","Adipiscing Mauris Inc.","Xipralofen",1400,4.76,"USA",203
+1755,"10/7/2023","Varius Plc","Presterone",1600,1.09,"Brazil",887
+1756,"3/23/2021","Pain Management Center","Colophrazen",1800,1.23,"USA",332
+1757,"7/1/2021","Eleifend GMBH","Xinoprozen",1200,2.82,"Germany",100
+1758,"5/15/2021","Lorem Luctus","Colophrazen",100,1.23,"USA",332
+1759,"8/24/2021","Adipiscing Mauris Inc.","Gerantrazeophem",600,1.87,"USA",203
+1760,"1/27/2023","Pain Management Center","Presterone",2000,1.09,"USA",332
+1761,"9/19/2020","Pain Management Center","Xinoprozen",1000,2.82,"USA",332
+1762,"3/5/2023","Adipiscing Mauris Inc.","Gerantrazeophem",1200,1.87,"USA",203
+1763,"8/6/2022","Lorem Luctus","Proxinostat",1600,2.23,"USA",332
+1764,"6/13/2021","Adipiscing Mauris Inc.","Colophrazen",900,1.23,"USA",203
+1765,"11/27/2022","Varius Plc","Colophrazen",1400,1.23,"Brazil",887
+1766,"8/21/2021","Varius Plc","Clobromizen",1000,1.44,"Brazil",887
+1767,"5/10/2022","Proin Dolor Institut","Xinoprozen",1000,2.82,"Germany",221
+1768,"3/8/2020","Luctus Aliquet Plc","Alaraphosol",1900,0.92,"Brazil",887
+1769,"12/25/2022","Plaxus Medical","Zalofen",1300,39,"Canada",119
+1770,"1/5/2022","Nisl Quisque","Proxinostat",500,2.23,"Brazil",887
+1771,"4/24/2020","Enim PC","Xinoprozen",1400,2.82,"USA",203
+1772,"4/28/2023","Luctus Aliquet Plc","Proxinostat",1700,2.23,"Brazil",887
+1773,"3/16/2022","Eleifend GMBH","Presterone",1900,1.09,"Germany",100
+1774,"10/3/2022","Erat Pharma","Diaprogenix",500,0.04,"Germany",100
+1775,"2/23/2020","Barma Krankenhausgesellschaft","Presterone",900,1.09,"Austria",655
+1776,"9/28/2022","Vitae Risus Incorporated","Clobromizen",1200,1.44,"USA",203
+1777,"4/17/2022","Eleifend GMBH","Proxinostat",800,2.23,"Germany",100
+1778,"2/28/2021","Eu Dolor Companie","Colophrazen",1000,1.23,"Ecuador",887
+1779,"3/4/2022","Barma Krankenhausgesellschaft","Bhiktarvizem",800,3.87,"Austria",655
+1780,"3/6/2020","Plaxus Medical","Gerantrazeophem",1400,1.87,"Canada",119
+1781,"4/8/2022","Eu Dolor Companie","Proxinostat",800,2.23,"Ecuador",887
+1782,"5/4/2023","Vitae Risus Incorporated","Alaraphosol",200,0.92,"USA",203
+1783,"9/6/2021","Plaxus Medical","Gerantrazeophem",1700,1.87,"Canada",119
+1784,"9/6/2021","Luctus Aliquet Plc","Bhiktarvizem",700,3.87,"Brazil",887
+1785,"12/9/2022","Saude Universal","Gerantrazeophem",1100,1.87,"Brazil",887
+1786,"10/24/2023","Luctus Aliquet Plc","Bhiktarvizem",600,3.87,"Brazil",887
+1787,"11/22/2023","Eastern Hospital Group","Clobromizen",300,1.44,"USA",119
+1788,"6/13/2020","Eleifend GMBH","Xipralofen",1000,4.76,"Germany",100
+1789,"10/12/2022","Vitae Risus Incorporated","Xinoprozen",1900,2.82,"USA",203
+1790,"10/13/2022","Eastern Hospital Group","Colophrazen",1500,1.23,"USA",119
+1791,"8/16/2022","Barma Krankenhausgesellschaft","Presterone",1400,1.09,"Austria",655
+1792,"7/18/2022","Barma Krankenhausgesellschaft","Xipramin",300,0.72,"Austria",655
+1793,"7/16/2022","Nisl Quisque","Xipramin",1100,0.72,"Brazil",887
+1794,"5/12/2023","Pain Management Center","Colophrazen",1500,1.23,"USA",332
+1795,"6/6/2021","Lorem Luctus","Presterone",1500,1.09,"USA",332
+1796,"12/22/2021","Eleifend GMBH","Xipralofen",1500,4.76,"Germany",100
+1797,"3/19/2022","Eu Dolor Companie","Zalofen",1500,39,"Ecuador",887
+1798,"11/5/2021","Adipiscing Mauris Inc.","Alaraphosol",700,0.92,"USA",203
+1799,"10/28/2020","Enim PC","Proxinostat",1500,2.23,"USA",203
+1800,"6/25/2023","Plaxus Medical","Xipramin",1200,0.72,"Canada",119
+1801,"12/18/2022","Proin Dolor Institut","Zalofen",200,39,"Germany",221
+1802,"5/2/2021","Adipiscing Mauris Inc.","Gerantrazeophem",600,1.87,"USA",203
+1803,"6/7/2022","Vitae Risus Incorporated","Bhiktarvizem",1500,3.87,"USA",203
+1804,"6/9/2023","Enim PC","Presterone",500,1.09,"USA",203
+1805,"8/26/2021","Varius Plc","Presterone",1600,1.09,"Brazil",887
+1806,"10/15/2021","At Pretium LLC","Xipralofen",900,4.76,"USA",332
+1807,"3/5/2022","Plaxus Medical","Presterone",1600,1.09,"Canada",119
+1808,"10/20/2023","Eu Dolor Companie","Diaprogenix",1000,0.04,"Ecuador",887
+1809,"9/21/2022","Proin Dolor Institut","Presterone",200,1.09,"Germany",221
+1810,"1/5/2022","Eleifend GMBH","Xinoprozen",400,2.82,"Germany",100
+1811,"8/2/2022","Plaxus Medical","Xinoprozen",600,2.82,"Canada",119
+1812,"4/18/2023","Nisl Quisque","Xinoprozen",2000,2.82,"Brazil",887
+1813,"11/1/2020","Adipiscing Mauris Inc.","Clobromizen",1500,1.44,"USA",203
+1814,"1/13/2021","At Pretium LLC","Xipramin",1500,0.72,"USA",332
+1815,"7/6/2023","Lorem Luctus","Xipramin",1000,0.72,"USA",332
+1816,"8/6/2022","Nisl Quisque","Alaraphosol",1500,0.92,"Brazil",887
+1817,"3/19/2021","At Pretium LLC","Gerantrazeophem",400,1.87,"USA",332
+1818,"3/12/2021","Erat Pharma","Presterone",1800,1.09,"Germany",100
+1819,"2/16/2022","Erat Pharma","Diaprogenix",500,0.04,"Germany",100
+1820,"9/9/2022","Plaxus Medical","Bhiktarvizem",1500,3.87,"Canada",119
+1821,"11/22/2020","Pain Management Center","Gerantrazeophem",800,1.87,"USA",332
+1822,"9/4/2022","At Pretium LLC","Colophrazen",1500,1.23,"USA",332
+1823,"9/19/2023","Varius Plc","Alaraphosol",800,0.92,"Brazil",887
+1824,"2/22/2021","Barma Krankenhausgesellschaft","Xinoprozen",500,2.82,"Austria",655
+1825,"8/20/2023","Varius Plc","Alaraphosol",300,0.92,"Brazil",887
+1826,"9/19/2021","Erat Pharma","Gerantrazeophem",1700,1.87,"Germany",100
+1827,"1/8/2021","Luctus Aliquet Plc","Colophrazen",1300,1.23,"Brazil",887
+1828,"10/9/2022","Lorem Luctus","Presterone",500,1.09,"USA",332
+1829,"11/17/2021","Lorem Luctus","Clobromizen",1000,1.44,"USA",332
+1830,"6/12/2022","Plaxus Medical","Xinoprozen",200,2.82,"Canada",119
+1831,"10/24/2021","Vitae Risus Incorporated","Presterone",1000,1.09,"USA",203
+1832,"3/16/2022","At Pretium LLC","Xinoprozen",200,2.82,"USA",332
+1833,"11/15/2021","Erat Pharma","Clobromizen",1900,1.44,"Germany",100
+1834,"4/4/2023","Luctus Aliquet Plc","Alaraphosol",1500,0.92,"Brazil",887
+1835,"2/15/2022","Eu Dolor Companie","Alaraphosol",1100,0.92,"Ecuador",887
+1836,"6/14/2020","Varius Plc","Zalofen",300,39,"Brazil",887
+1837,"7/15/2020","Eu Dolor Companie","Presterone",1200,1.09,"Ecuador",887
+1838,"9/6/2022","Barma Krankenhausgesellschaft","Presterone",1900,1.09,"Austria",655
+1839,"11/19/2021","Lorem Luctus","Colophrazen",1400,1.23,"USA",332
+1840,"5/7/2023","Eleifend GMBH","Colophrazen",100,1.23,"Germany",100
+1841,"5/20/2021","Pain Management Center","Clobromizen",1400,1.44,"USA",332
+1842,"2/6/2023","Proin Dolor Institut","Xipramin",300,0.72,"Germany",221
+1843,"6/23/2021","Nisl Quisque","Colophrazen",1200,1.23,"Brazil",887
+1844,"10/18/2022","Proin Dolor Institut","Colophrazen",800,1.23,"Germany",221
+1845,"6/24/2022","Lorem Luctus","Xinoprozen",500,2.82,"USA",332
+1846,"2/17/2022","Eu Dolor Companie","Alaraphosol",800,0.92,"Ecuador",887
+1847,"5/7/2022","Vitae Risus Incorporated","Alaraphosol",1100,0.92,"USA",203
+1848,"9/17/2022","Varius Plc","Xipralofen",1400,4.76,"Brazil",887
+1849,"9/18/2022","At Pretium LLC","Xipralofen",500,4.76,"USA",332
+1850,"7/4/2023","Eleifend GMBH","Clobromizen",600,1.44,"Germany",100
+1851,"8/28/2020","Luctus Aliquet Plc","Xipramin",200,0.72,"Brazil",887
+1852,"3/17/2022","Varius Plc","Gerantrazeophem",1500,1.87,"Brazil",887
+1853,"6/24/2022","Plaxus Medical","Gerantrazeophem",200,1.87,"Canada",119
+1854,"7/27/2022","Adipiscing Mauris Inc.","Zalofen",1700,39,"USA",203
+1855,"8/10/2020","At Pretium LLC","Proxinostat",1700,2.23,"USA",332
+1856,"5/25/2021","Eu Dolor Companie","Xipramin",400,0.72,"Ecuador",887
+1857,"2/4/2021","Enim PC","Colophrazen",1400,1.23,"USA",203
+1858,"9/5/2022","Nisl Quisque","Clobromizen",1200,1.44,"Brazil",887
+1859,"6/26/2021","Adipiscing Mauris Inc.","Clobromizen",1100,1.44,"USA",203
+1860,"8/2/2022","Saude Universal","Zalofen",1100,39,"Brazil",887
+1861,"6/11/2021","Enim PC","Presterone",1400,1.09,"USA",203
+1862,"7/2/2022","Adipiscing Mauris Inc.","Bhiktarvizem",1700,3.87,"USA",203
+1863,"4/3/2021","Adipiscing Mauris Inc.","Xinoprozen",1200,2.82,"USA",203
+1864,"7/13/2021","Nisl Quisque","Bhiktarvizem",1400,3.87,"Brazil",887
+1865,"10/26/2022","Lorem Luctus","Diaprogenix",1000,0.04,"USA",332
+1866,"2/25/2022","At Pretium LLC","Alaraphosol",1300,0.92,"USA",332
+1867,"3/16/2023","Vitae Risus Incorporated","Diaprogenix",600,0.04,"USA",203
+1868,"5/25/2023","At Pretium LLC","Zalofen",700,39,"USA",332
+1869,"9/20/2020","Saude Universal","Xipralofen",1400,4.76,"Brazil",887
+1870,"7/8/2023","Adipiscing Mauris Inc.","Alaraphosol",1600,0.92,"USA",203
+1871,"8/9/2021","Proin Dolor Institut","Proxinostat",300,2.23,"Germany",221
+1872,"7/24/2020","Eleifend GMBH","Xipramin",2000,0.72,"Germany",100
+1873,"4/11/2020","At Pretium LLC","Presterone",1500,1.09,"USA",332
+1874,"10/13/2023","Enim PC","Clobromizen",400,1.44,"USA",203
+1875,"9/9/2021","Eastern Hospital Group","Diaprogenix",1100,0.04,"USA",119
+1876,"5/6/2021","Luctus Aliquet Plc","Colophrazen",1700,1.23,"Brazil",887
+1877,"10/2/2022","Nisl Quisque","Diaprogenix",1200,0.04,"Brazil",887
+1878,"4/11/2021","Lorem Luctus","Clobromizen",1000,1.44,"USA",332
+1879,"9/13/2021","Lorem Luctus","Gerantrazeophem",1000,1.87,"USA",332
+1880,"3/8/2022","Adipiscing Mauris Inc.","Zalofen",1300,39,"USA",203
+1881,"5/23/2022","Barma Krankenhausgesellschaft","Alaraphosol",1800,0.92,"Austria",655
+1882,"11/5/2021","Luctus Aliquet Plc","Xipralofen",2000,4.76,"Brazil",887
+1883,"6/9/2021","Lorem Luctus","Xinoprozen",300,2.82,"USA",332
+1884,"2/5/2021","Plaxus Medical","Zalofen",1500,39,"Canada",119
+1885,"2/25/2021","At Pretium LLC","Colophrazen",1200,1.23,"USA",332
+1886,"1/20/2021","Adipiscing Mauris Inc.","Proxinostat",100,2.23,"USA",203
+1887,"3/19/2022","Eleifend GMBH","Colophrazen",400,1.23,"Germany",100
+1888,"6/26/2021","Vitae Risus Incorporated","Alaraphosol",200,0.92,"USA",203
+1889,"3/23/2022","Luctus Aliquet Plc","Diaprogenix",900,0.04,"Brazil",887
+1890,"8/25/2022","Barma Krankenhausgesellschaft","Clobromizen",1200,1.44,"Austria",655
+1891,"9/25/2021","Eleifend GMBH","Alaraphosol",200,0.92,"Germany",100
+1892,"10/23/2023","Eleifend GMBH","Clobromizen",600,1.44,"Germany",100
+1893,"2/12/2021","Vitae Risus Incorporated","Clobromizen",500,1.44,"USA",203
+1894,"5/3/2022","Vitae Risus Incorporated","Zalofen",1900,39,"USA",203
+1895,"11/21/2022","Eastern Hospital Group","Bhiktarvizem",400,3.87,"USA",119
+1896,"6/15/2023","Varius Plc","Gerantrazeophem",2000,1.87,"Brazil",887
+1897,"9/11/2022","Barma Krankenhausgesellschaft","Zalofen",1000,39,"Austria",655
+1898,"9/5/2021","Barma Krankenhausgesellschaft","Diaprogenix",1100,0.04,"Austria",655
+1899,"5/21/2021","Varius Plc","Bhiktarvizem",800,3.87,"Brazil",887
+1900,"8/21/2020","Adipiscing Mauris Inc.","Zalofen",400,39,"USA",203
