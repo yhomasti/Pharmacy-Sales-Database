@@ -1,0 +1,133 @@
+---
+title: "Sales Analysis"
+subtitle: "2020-2023"
+author: "Thomas Yi"
+date: "Dec-6-2024"
+output: html_notebook
+---
+
+```{r setup, echo=T, warning=FALSE}
+#installing any necessary packages for reports:
+if (!require("kableExtra")) {
+    install.packages("kableExtra")
+    library("kableExtra")
+}
+
+
+
+```
+
+
+```{r topFiveProductsYears, echo=T}
+#Determine the year range
+query_year_range <- "
+SELECT MIN(year) AS start_year, MAX(year) AS end_year
+FROM product_facts;
+"
+year_range <- dbGetQuery(aivendb, query_year_range)
+
+# Extract the start and end years
+start_year <- year_range$start_year[1]
+end_year <- year_range$end_year[1]
+
+```
+
+
+
+The top five products with the most sales/revenue across all years from 
+`r start_year` to `r end_year` are shown in the table below.
+
+
+
+```{r queryTopFiveProducts, echo=T}
+
+
+
+
+
+query_top_five <- "
+SELECT product_name, SUM(total_revenue) AS total_revenue, SUM(total_units_sold) 
+AS total_units
+FROM product_facts
+GROUP BY product_name
+ORDER BY total_revenue DESC
+LIMIT 5;
+"
+top_five_products <- dbGetQuery(aivendb, query_top_five)
+
+##using KableExtra to produce a little table ... I hope this looks good :')
+top_five_chart <- kable(top_five_products, caption = 
+                          "Top Five Products by Revenue (2020-2023)") %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"), 
+                full_width = FALSE)
+top_five_chart
+
+```
+
+The total revenue per quarter per product for the most recent year 
+(`r most_recent_year`) is shown in the table below.
+
+
+
+```{r totalRevenuePerQuarter}
+#statement to determine the most recent year
+query_most_recent_year <- "
+SELECT MAX(year) AS most_recent_year
+FROM product_facts;
+"
+most_recent_year <- 
+  dbGetQuery(aivendb, query_most_recent_year)$most_recent_year[1]
+
+
+
+#the total revenue per quarter per product for the most recent year
+query_quarterly_revenue <- sprintf("
+SELECT product_name, 
+       CASE
+         WHEN month IN ('1', '2', '3') THEN 'Q1'
+         WHEN month IN ('4', '5', '6') THEN 'Q2'
+         WHEN month IN ('7', '8', '9') THEN 'Q3'
+         WHEN month IN ('10', '11', '12') THEN 'Q4'
+       END AS quarter, 
+       SUM(total_revenue) AS total_revenue
+FROM product_facts
+WHERE year = '%s' AND month IS NOT NULL
+GROUP BY product_name, quarter
+ORDER BY product_name, quarter;
+", most_recent_year)
+
+quarterly_revenue <- dbGetQuery(aivendb, query_quarterly_revenue)
+
+#creating the table with KableExtra
+kable(quarterly_revenue, caption = 
+        sprintf("Revenue Per Quarter Per Product for %s", most_recent_year)) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"), 
+                full_width = FALSE)
+
+
+```
+
+
+```{r RevenuePerProductPerCountry, echo=T}
+
+#get revenue per product per country for the most recent two years
+query_product_country_revenue <- sprintf("
+SELECT p.product_name, c.country_name, SUM(total_revenue) AS total_revenue
+FROM product_facts p
+JOIN country_lookup c ON p.country_id = c.country_id
+WHERE year IN ('%s', '%s')
+GROUP BY p.product_name, c.country_name
+ORDER BY p.product_name, total_revenue DESC;
+", start_year, end_year)
+
+product_country_revenue <- dbGetQuery(aivendb, query_product_country_revenue)
+
+
+```
+
+
+```{r disconnect, echo=T}
+#disconnecting from the aivendb now
+dbDisconnect(aivendb)
+```
+
