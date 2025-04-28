@@ -6,7 +6,7 @@
 # Connection details for Aiven MySQL Database
 
 db_user <- 'avnadmin' 
-db_password <- 'AVNS_nUCYfbTYPDJwgMX6wee'
+db_password <- //HIDDEN - ASK FOR PASSWORD
 db_name <- 'defaultdb'
 db_host <- 'mysql-1f4ba127-cs5200-dbms-practicum1.k.aivencloud.com' 
 db_port <- 21111
